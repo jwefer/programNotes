@@ -103,11 +103,15 @@ linux基本命令：
 
 ![](D:\资料\web前端学习资料素材\笔记\imgs\查看状态并添加文件进暂存区.PNG)
 
+- `git add --all` ：提交全部文件
+
 #### 3.4.3 提交暂存区到本地仓库（commit）
 
 - 命令形式：`git commit -m '日志信息' 文件名`
 
 ![](D:\资料\web前端学习资料素材\笔记\imgs\暂存区提交到本地库.PNG)
+
+- `git commit -m 'add more files'`
 
 #### 3.4.4 查看提交日志（log）
 
